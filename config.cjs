@@ -7,7 +7,7 @@ module.exports = {
   "OMDB_API_KEY": "76cb7f39",
   "READ_CMD": true,
   "AUTO_VOICE": true,
-  "AUTO_STICKER": true,
+  "AUTO_STICKER": false,
   "AUTO_REPLY": true,
   "AUTO_REACT": true,
   "WELCOME": true,
